@@ -9,16 +9,18 @@ body {
     align-items: center;
     justify-content: center;
 }
+.container {
+    text-align: center;
+}
 h1 {
     text-align: center;
     padding: 30px
 }
 #title {
     text-align: center;
-    padding: 30px;
 }
-.cell:hover {
-    fill: green;
+.county:hover {
+    fill: blue;
 }
 #tooltip {
     display: flex;
